@@ -1,4 +1,4 @@
-module provider-rex-user/supplier_user
+module provider-rex-user/subscriber_user
 
 go 1.16
 
